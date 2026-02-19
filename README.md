@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Jaycie Liu (Zutong) 👋</h1>
 
-
 <p align="center">
   ✉️ <a href="mailto:zutongli@usc.edu"><b>Email</b></a>
   &nbsp;•&nbsp;
