@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Jaycie Liu (Zutong) 👋</h1>
+
 <p align="center">
-  MSBA @ USC Marshall · Data Science & Analytics · Python · SQL · ML
+  <b>MSBA @ USC Marshall</b> · Data Science & Analytics · Python · SQL · ML
 </p>
 
 <p align="center">
@@ -9,34 +10,34 @@
   <a href="https://github.com/jaycieliu">GitHub</a>
 </p>
 
----
+<hr/>
 
 ## ⭐ Featured Projects
-### 1) YouTube Engagement Recommender (Offline Policy Simulator)
-- Predict next-day KPIs → simulate Top-K ranking policies → compare trade-offs (completion vs watch time)
-- Repo: https://github.com/jaycieliu/youtube-trending-recommender
 
-### 2) Fraud Detection & Decisioning
-- End-to-end fraud scoring + thresholding + decision rules + evaluation artifacts
-- Repo: https://github.com/jaycieliu/fraud-detection-decisioning
+| Project | What it does |
+|---|---|
+| **YouTube Engagement Recommender (Offline Policy Simulator)**  <br> Predict next-day KPIs → simulate Top-K ranking policies → compare KPI trade-offs  <br> 🔗 https://github.com/jaycieliu/youtube-trending-recommender | Shows how ranking objectives can create KPI trade-offs even with good models. |
+| **Fraud Detection & Decisioning**  <br> Fraud scoring → thresholding → decision rules → evaluation artifacts  <br> 🔗 https://github.com/jaycieliu/fraud-detection-decisioning | End-to-end decisioning workflow focused on operational metrics and outcomes. |
 
----
+<hr/>
+
 ## 🧰 Tech Stack
-**Python** (pandas, numpy, sklearn) · **SQL** · **Machine Learning** · **Notebook storytelling** · **Experimentation mindset**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
 </p>
 
----
+<hr/>
 
-## 📌 Currently
-- Building portfolio-quality end-to-end ML projects
-- Improving model evaluation + decisioning logic
+### 📌 Currently
+- Building portfolio-quality end-to-end ML projects  
+- Improving model evaluation + decisioning logic  
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycieliu&layout=compact&cache_seconds=1800)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycieliu&layout=compact&cache_seconds=1800&hide_border=true" />
+</p>
