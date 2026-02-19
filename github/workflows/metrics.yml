@@ -14,5 +14,4 @@ jobs:
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_followup: yes
           plugin_achievements: yes
