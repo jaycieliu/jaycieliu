@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:zutongli@usc.edu">Email</a> ·
   <a href="https://www.linkedin.com/">LinkedIn</a> ·
-  <a href="https://github.com/jaycieliu">GitHub</a>
 </p>
 
 <hr/>
@@ -36,10 +35,8 @@ I’m happiest when I can take a problem from **messy data → clear metrics →
 
 | Project | What it does |
 |---|---|
-| **YouTube Engagement Recommender (Offline Policy Simulator)**  <br> Predict next-day KPIs → simulate Top-K ranking policies → compare KPI trade-offs  <br> 🔗 https://github.com/jaycieliu/youtube-trending-recommender | Shows how ranking objectives can create KPI trade-offs even with good models. 
-Offline Top-K slate simulation + KPI trade-offs (completion vs watch time)  |
-| **Fraud Detection & Decisioning**  <br> Fraud scoring → thresholding → decision rules → evaluation artifacts  <br> 🔗 https://github.com/jaycieliu/fraud-detection-decisioning | End-to-end decisioning workflow focused on operational metrics and outcomes.
-Scoring → thresholding → decision policy → evaluation artifacts  |
+| **YouTube Engagement Recommender (Offline Policy Simulator)**  <br> Predict next-day KPIs → simulate Top-K ranking policies → compare KPI trade-offs  <br> 🔗 https://github.com/jaycieliu/youtube-trending-recommender | Shows how ranking objectives can create KPI trade-offs even with good models.  Offline Top-K slate simulation + KPI trade-offs (completion vs watch time)  |
+| **Fraud Detection & Decisioning**  <br> Fraud scoring → thresholding → decision rules → evaluation artifacts  <br> 🔗 https://github.com/jaycieliu/fraud-detection-decisioning | End-to-end decisioning workflow focused on operational metrics and outcomes. Scoring → thresholding → decision policy → evaluation artifacts  |
 
 <hr/>
 
@@ -63,10 +60,3 @@ Scoring → thresholding → decision policy → evaluation artifacts  |
 ### 🎯 What I’m looking for
 - Data Science / Analytics / ML roles (internship / FT) where I can work on **modeling + evaluation + decisioning**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaycieliu&layout=compact&cache_seconds=86400" />
-</p>
-
-
-![Metrics](./metrics.svg)
