@@ -15,13 +15,6 @@
 ### 1) YouTube Engagement Recommender (Offline Policy Simulator)
 - Predict next-day KPIs → simulate Top-K ranking policies → compare trade-offs (completion vs watch time)
 - Repo: https://github.com/jaycieliu/youtube-trending-recommender
-<p align="center">
-  <img src="reports/figures/kpis_test.png" width="800" />
-</p>
-
-<p align="center">
-  <img src="reports/figures/test_kpis_comparison.png" width="800" />
-</p>
 
 ### 2) Fraud Detection & Decisioning
 - End-to-end fraud scoring + thresholding + decision rules + evaluation artifacts
