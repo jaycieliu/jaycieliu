@@ -2,15 +2,16 @@
 
 
 <p align="center">
-  <a href="mailto:zutongli@usc.edu">Email</a> ·
-  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  ✉️ <a href="mailto:zutongli@usc.edu"><b>Email</b></a>
+  &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><b>LinkedIn</b></a>
+  &nbsp;•&nbsp;
+  💻 <a href="https://github.com/jaycieliu"><b>GitHub</b></a>
 </p>
-
 <hr/>
 
 ## About Me ✨
 
-Hi, I’m Jaycie (Zutong) 👋  
 I’m an **MSBA student at USC Marshall** who enjoys turning real-world business questions into **clean analyses + decision-ready insights**.
 
 I’m happiest when I can take a problem from **messy data → clear metrics → a simple, testable decision rule** (and make the whole workflow reproducible).
