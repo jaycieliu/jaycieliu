@@ -50,3 +50,7 @@
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true&cache_seconds=86400" />
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaycieliu&layout=compact&cache_seconds=86400" />
 </p>
+
+<p align="center">
+  <img src="./metrics.svg" />
+</p>
