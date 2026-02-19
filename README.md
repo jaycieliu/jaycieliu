@@ -33,8 +33,6 @@
 
 <hr/>
 
----
-
 ## 📌 Currently
 - Building **portfolio-quality, end-to-end ML systems** (data → modeling → evaluation → decision logic)
 - Exploring **ranking / policy evaluation** and **threshold-based decisioning** with reproducible experiments
