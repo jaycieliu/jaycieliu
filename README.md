@@ -21,7 +21,13 @@
 - Repo: https://github.com/jaycieliu/fraud-detection-decisioning
 
 ---
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
 ## 🧰 Tech Stack
 **Python** (pandas, numpy, sklearn) · **SQL** · **Machine Learning** · **Notebook storytelling** · **Experimentation mindset**
 
