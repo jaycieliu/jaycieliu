@@ -15,6 +15,13 @@
 ### 1) YouTube Engagement Recommender (Offline Policy Simulator)
 - Predict next-day KPIs → simulate Top-K ranking policies → compare trade-offs (completion vs watch time)
 - Repo: https://github.com/jaycieliu/youtube-trending-recommender
+<p align="center">
+  <img src="reports/figures/kpis_test.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="reports/figures/test_kpis_comparison.png" width="800" />
+</p>
 
 ### 2) Fraud Detection & Decisioning
 - End-to-end fraud scoring + thresholding + decision rules + evaluation artifacts
@@ -36,3 +43,8 @@
 ## 📌 Currently
 - Building portfolio-quality end-to-end ML projects
 - Improving model evaluation + decisioning logic
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaycieliu&show_icons=true&hide_title=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycieliu&layout=compact" height="160" />
+</p>
