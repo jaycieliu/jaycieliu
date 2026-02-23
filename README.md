@@ -34,6 +34,7 @@ I’m happiest when I can take a problem from **messy data → clear metrics →
 |---|---|
 | **📽️[YouTube Engagement Recommender (Offline Policy Simulator)](https://github.com/jaycieliu/youtube-trending-recommender)**<br>Predict next-day KPIs → simulate Top-K ranking policies → compare KPI trade-offs | Shows how ranking objectives can create KPI trade-offs even with good models. |
 | **📬[Fraud Detection & Decisioning](https://github.com/jaycieliu/fraud-detection-decisioning)**<br>Fraud scoring → thresholding → decision rules → evaluation artifacts | End-to-end decisioning workflow focused on operational metrics and outcomes. |
+| 🏋️ [TrojanFit AI Wellness App (AI Product Prototype)](https://github.com/jaycieliu/TrojanFit) <br> Survey insights → onboarding personalization → AI matching flow → social wellness engagement design | AI product case prototype showing how personalization + scheduling + social coordination can reduce activation friction in student wellness participation. |
 
 ## 🧰 Tech Stack
 
